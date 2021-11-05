@@ -26,7 +26,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -65,7 +65,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -147,7 +147,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -220,7 +220,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -278,7 +278,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -370,7 +370,7 @@ module.exports = {
         {
           type: "link",
           label: "Concepts",
-          href: "/docs/concepts/introduction",
+          href: "/docs/temporal-explained/introduction",
         },
         {
           type: "link",
@@ -395,13 +395,13 @@ module.exports = {
       ],
     },
   ],
-  coreConcepts: [
+  temporalExplained: [
     {
       type: "category",
-      label: "Core concepts",
+      label: "Temporal explained",
       collapsed: false,
       items: [
-        "concepts/introduction",
+        "temporal-explained/introduction",
         "concepts/workflows",
         "concepts/activities",
         "concepts/workers",
@@ -444,20 +444,6 @@ module.exports = {
           label: "System tools",
           href: "/docs/system-tools/introduction",
         },
-      ],
-    },
-  ],
-  temporalExplained: [
-    {
-      type: "category",
-      label: "Temporal explained",
-      collapsed: true,
-      items: [
-        "temporal-explained/introduction",
-        "temporal-explained/workflows",
-        "temporal-explained/activities",
-        "temporal-explained/timeouts-and-retries",
-        "temporal-explained/clusters",
       ],
     },
   ],
