@@ -10,12 +10,12 @@
 # Concept pages redirects
 #
 [[redirects]]
-  from = "docs/concepts"
-  to = "docs/concepts/introduction"
+  from = "docs/temporal-explained"
+  to = "docs/temporal-explained/introduction"
 
 [[redirects]]
-  from = "/docs/concept-overview"
-  to = "/docs/concepts/introduction"
+  from = "/docs/concepts/introduction"
+  to = "/docs/temporal-explained/introduction"
 
 [[redirects]]
   from = "/docs/concept-workflows"
